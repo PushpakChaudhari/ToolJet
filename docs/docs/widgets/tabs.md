@@ -105,7 +105,7 @@ Following actions of Tabs component can be controlled using the component specif
 
 <div style={{paddingTop:'24px'}}>
 
-## Devices
+## Devices 
 
 | <div style={{ width:"100px"}}> Property </div> | <div style={{ width:"100px"}}> Description </div> | <div style={{ width:"135px"}}> Expected Value </div> |
 |:--------------- |:----------------------------------------- | :------------------------------------------------------------------------------------------------------------- |
